@@ -39,3 +39,6 @@ Fontes de dados:
 - [Site da Organização Mundial da Saúde](maps.who.int/airpollution)
 
 - Instituto de energia e meio ambiente: [Plataforma da Qualidade do Ar](qualidadedoar.org.br)
+
+
+## Aula 2 - 10/08/2018
