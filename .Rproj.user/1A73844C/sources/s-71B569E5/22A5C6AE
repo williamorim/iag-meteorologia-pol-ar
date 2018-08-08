@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533729803405.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22A5C6AE",
+    "lastKnownWriteTime" : 1533739811,
+    "last_content_update" : 1533739811864,
+    "path" : "~/Documents/IAG - Meteorologia da Poluição do ar/notas-de-aula.Rmd",
+    "project_path" : "notas-de-aula.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "38,47",
+        "scrollLine" : "15",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

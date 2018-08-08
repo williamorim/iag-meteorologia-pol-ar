@@ -1,0 +1,41 @@
+---
+title: "Meteorologia da Poluição do ar"
+output: 
+  html_notebook:
+    theme: lumen
+    toc: yes
+    toc_float: yes
+    highlight: tango
+---
+
+Notas de aula do curso "Meteorologia da Poluição do Ar", ministrado no IAG no segundo semestre de 2018 pela professora Maria de Fátima.
+
+## Aula 1 - 08/08/2018
+
+Aerossól:
+
+- Distribuição de Aerossóis: 10km resolution W. Putmanm, NASA Goddard
+
+Smog:
+
+- Smog = **sm**oke + f**og**
+
+- Ozônio, hidrocarbonetos, nitrogênio, partículas e outros compostos reativos. 
+
+Monitoramento de poluição do ar:
+
+- A Rússia não monitora ou não disponibiliza dados de poluição.
+
+- A legislação chilena é bem rigorosa com o monitoramento ambiental.
+
+- Existem muito poucas medições na África.
+
+- Ásia (Índia e China) apresentam as médias mais elevadas de poluição.
+
+Fontes de dados:
+
+- [Air Pollution in World](aqicn.org/map/world)
+
+- [Site da Organização Mundial da Saúde](maps.who.int/airpollution)
+
+- Instituto de energia e meio ambiente: [Plataforma da Qualidade do Ar](qualidadedoar.org.br)
