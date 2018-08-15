@@ -42,3 +42,49 @@ Fontes de dados:
 
 
 ## Aula 2 - 10/08/2018
+
+
+## Aula 3 - 15/08/2018
+
+<hr>
+
+#### Introdução
+
+SLCP (short-lived climate pollutants):
+
+- O$_3$
+- Partículas (PM)
+- Black carbon
+
+<hr>
+
+#### Formação do ozônio
+
+Abaixo as reações químicas envolvidas na formação do ozônio:
+
+- NO + radicais (HO$_2\cdot$, OH$\cdot$) $\rightarrow$ NO$_2$ + OH (H)
+
+- NO$_2$ $\stackrel{h\nu}{\rightarrow}$ NO + O
+
+- O$_2$ + O $\rightarrow$ O$_3$ 
+
+- NO + O$_3$  $\rightarrow$ NO$_2$ (reação de consumo)
+
+
+O NO$_2$ vem da queima de combustíveis:
+
+- HC + O$_2$ $\rightarrow$ CO$_2$ + H$_2$O + energia
+
+Como os hidrocarbonetos (HC) quase sempre não são puros, essa reação também pode gerar CO, SO$_2$, NO e NO$_2$
+
+Os radicais (HO$_2\cdot$, OH$\cdot$) vem primariamente dos COV: HC + oxigenados + HC não queimados + álcoois
+
+<hr>
+
+#### Pesquisar
+
+- Química: o que são radicais?
+
+- O que significa h$\nu$?
+
+- O que é deposição?
