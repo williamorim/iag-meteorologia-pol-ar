@@ -88,3 +88,19 @@ Os radicais (HO$_2\cdot$, OH$\cdot$) vem primariamente dos COV: HC + oxigenados 
 - O que significa h$\nu$?
 
 - O que é deposição?
+
+## Aula 4 - 17/08/2018
+
+Na reação A + B $\rightarrow$ C + D, a variação de C é dada por
+
+$$
+\frac{dC}{dt} = k A B
+$$
+
+<hr>
+
+Plataforma para avaliar inventário de emissões no Brasil: 
+[plataforma.seeg.eco.br/total_emission](plataforma.seeg.eco.br/total_emission)
+
+Plataforma para avaliar inventário de emissões global:
+[www.iiasa.ac.at](www.iiasa.ac.at)
