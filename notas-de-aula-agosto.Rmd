@@ -12,6 +12,8 @@ Notas de aula do curso "Meteorologia da Poluição do Ar", ministrado no IAG no 
 
 ## Aula 1 - 08/08/2018
 
+<hr>
+
 Aerossól:
 
 - Distribuição de Aerossóis: 10km resolution W. Putmanm, NASA Goddard
@@ -43,7 +45,20 @@ Fontes de dados:
 
 ## Aula 2 - 10/08/2018
 
+<hr>
 
+- Observando o espectro de energia que chega na Terra, é possível calcular a temperatura do corpo emissor.
+
+- Calor sensível vs calor latente.
+
+- Transferência de energia: convecção
+
+- Camada limite planetária (CLP): altura máxima em que a superfície influencia a atmosfera.
+
+- Turbulência 
+   - térmica
+   - mecânica (fricção e rugosidade do terreno)
+   
 ## Aula 3 - 15/08/2018
 
 <hr>
