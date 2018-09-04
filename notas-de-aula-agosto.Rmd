@@ -119,3 +119,25 @@ Plataforma para avaliar inventário de emissões no Brasil:
 
 Plataforma para avaliar inventário de emissões global:
 [www.iiasa.ac.at](www.iiasa.ac.at)
+
+## Aula 5 - 22/08/2018
+
+Aula no laboratório de computação: apresentação do post da greve dos caminhoneiros.
+
+## Aula 6 - 24/08/2018
+
+Não houve aula
+
+## Aula 7 - 29/08/2018
+
+Seminário na prefeitura
+
+## Aula 8 - 31/08/2018
+
+Aerosóis atmosféricos: partículas sólidas ou líquidas em suspensão na atmosfera com diâmetro aproximadamente entre $3 nm$ e $100 \mu m$.
+
+Fontes:
+
+- secundários --- fontes de queima de biomasasa e fósseis
+
+- primários --- solo, pavimento, mar, plantas

@@ -46,3 +46,19 @@ remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4) 
 To github.com:williamorim/iag-meteorologia-pol-ar.git
    8e54535..daaf910  master -> master
 ]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluiçãoo do ar[00m$ [K[A]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluiçãão do ar[00m$ git add .
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluiçãão do ar[00m$ git add[K[K[Kcommit -m "aula 2"
+[master 293c639] aula 2
+ 4 files changed, 43 insertions(+), 3 deletions(-)
+ rewrite .Rproj.user/1A73844C/console06/INDEX001 (87%)
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluiçãão do ar[00m$ git com[K[K[Kpush origin master
+Counting objects: 9, done.
+Delta compression using up to 4 threads.
+Compressing objects:  11% (1/9)   Compressing objects:  22% (2/9)   Compressing objects:  33% (3/9)   Compressing objects:  44% (4/9)   Compressing objects:  55% (5/9)   Compressing objects:  66% (6/9)   Compressing objects:  77% (7/9)   Compressing objects:  88% (8/9)   Compressing objects: 100% (9/9)   Compressing objects: 100% (9/9), done.
+Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  44% (4/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 2.01 KiB | 128.00 KiB/s, done.
+Total 9 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To github.com:williamorim/iag-meteorologia-pol-ar.git
+   daaf910..293c639  master -> master
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Pol[Kuuição do ar[00m$ git pushllcommit -m "novos layouts fopa e gere
+ncial"[A[C[C[C[C[C[C[C[C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
