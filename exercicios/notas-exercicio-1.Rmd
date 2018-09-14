@@ -1,0 +1,38 @@
+---
+title: "Meteorologia da Poluição do ar"
+output: 
+  html_notebook:
+    theme: lumen
+    toc: yes
+    toc_float: yes
+    highlight: tango
+---
+
+## Exercício 1
+
+$$
+\frac{d[CO]_H}{dt} = 0 = F_{in_{HO}} - F_{out_H} + E_H - D_H + Q_H - R_H
+$$
+
+$$
+F_in = k * [CO] \rightarrow k = 1
+$$
+
+$$
+R = k_{COOH} [CO][OH]
+$$
+
+Duas equações, uma para cada hemisfério.
+
+- Norte
+
+$$
+k_{SN}[CO]_S - k_{NS}[CO]_N + E_N - D_N + Q_N - k_{COOH}[CO]_N[OH]_N = 0
+$$
+
+
+- Sul
+
+$$
+k_{NS}[CO]_N - k_{NS}[CO]_S + E_S - D_S + Q_S - k_{COOH}[CO]_S[OH]_S = 0
+$$

@@ -86,3 +86,29 @@ remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas:  14% (1/7) 
 To github.com:williamorim/iag-meteorologia-pol-ar.git
    293c639..b845931  master -> master
 ]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluuição do ar[00m$ [K[A]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da  Poluição do ar[00m$ git add .
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da  Poluição do ar[00m$ git a[Kcoomm[K[K[Kmmit - [Km "aula[K[K[K[Kexemplo 2[K1[C'[K"[C[C[1@i[1@m[1@p[1@l[C[1@e[1@m[Cexemplo 1"nexemplo 1
+"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctexemplo 
+1"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Caexemplo
+ 1"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdexempl
+o 1"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexemplo
+[1P 1"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnexempl
+o 1"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdexemp
+[1@l[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coexem
+[1@p[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C exe
+[1@m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[master 51ee5b8] implementando exemplo 1
+ 5 files changed, 59 insertions(+), 18 deletions(-)
+ rewrite .Rproj.user/1A73844C/console06/INDEX001 (93%)
+ create mode 100644 exercicios/grafico_exemplo_1.png
+ delete mode 100644 exercicios/grafico_exercicio_1.png
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da  Poluição do ar[00m$ git push origin master
+Counting objects: 10, done.
+Delta compression using up to 4 threads.
+Compressing objects:  10% (1/10)   Compressing objects:  20% (2/10)   Compressing objects:  30% (3/10)   Compressing objects:  40% (4/10)   Compressing objects:  50% (5/10)   Compressing objects:  60% (6/10)   Compressing objects:  70% (7/10)   Compressing objects:  80% (8/10)   Compressing objects:  90% (9/10)   Compressing objects: 100% (10/10)   Compressing objects: 100% (10/10), done.
+Writing objects:  10% (1/10)   Writing objects:  20% (2/10)   Writing objects:  30% (3/10)   Writing objects:  40% (4/10)   Writing objects:  50% (5/10)   Writing objects:  60% (6/10)   Writing objects:  70% (7/10)   Writing objects:  80% (8/10)   Writing objects:  90% (9/10)   Writing objects: 100% (10/10)   Writing objects: 100% (10/10), 18.45 KiB | 2.64 MiB/s, done.
+Total 10 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+To github.com:williamorim/iag-meteorologia-pol-ar.git
+   b845931..51ee5b8  master -> master
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da  Poluição do ar[00m$ [K[A]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluiçãão do ar[00m$ git[K[K[Kg[Kg[Kgit add .

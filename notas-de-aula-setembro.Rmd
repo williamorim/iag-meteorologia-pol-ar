@@ -1,0 +1,39 @@
+---
+title: "Meteorologia da Poluição do ar"
+output: 
+  html_notebook:
+    theme: lumen
+    toc: yes
+    toc_float: yes
+    highlight: tango
+---
+
+Notas de aula do curso "Meteorologia da Poluição do Ar", ministrado no IAG no segundo semestre de 2018 pela professora Maria de Fátima.
+
+Não houve aula nos dias 5 e 7 devido ao break da semana da pátria.
+
+## Aula 9 - 12/09/2018 
+
+Aula no laboratório.
+
+## Aula 10 - 14/09/2018
+
+Aerosóis atmosféricos:
+
+- Definição
+
+- Fontes primárias: naturais
+
+- Processos secundários:
+    - aerosol inorgânico secundário (SIA)
+    - aerosol orgânico secundário (SOA)
+
+<hr>
+
+MIR: *max incremental reactivity*
+
+ozônio: $$\frac{gO_3}{gCOV}$$
+
+SOA: $$\frac{gSOA}{gCOV}$$
+
+<hr>
