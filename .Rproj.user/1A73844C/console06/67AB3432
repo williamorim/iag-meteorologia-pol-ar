@@ -62,3 +62,27 @@ To github.com:williamorim/iag-meteorologia-pol-ar.git
 ]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Pol[Kuuição do ar[00m$ git pushllcommit -m "novos layouts fopa e gere
 ncial"[A[C[C[C[C[C[C[C[C[C[C[Cadd .[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluuição do ar[00m$ git add .[1Ppushllcommit -m "novos layouts fopa e gere
+ncial"[A[C[C[C[C[C[C[C[C[C[C[C[Cpull[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh[K[K[K[Kcomiit[K[K[Kmit -m "exercicio ax[K[K[K-exemplo-1"
+[master b845931] exercicio-exemplo-1
+ 8 files changed, 123 insertions(+), 2 deletions(-)
+ rewrite .Rproj.user/1A73844C/console06/INDEX001 (100%)
+ create mode 100644 exercicios/exercicio_1.R
+ create mode 100644 exercicios/grafico_exercicio_1.png
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluuição do ar[00m$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluuição do ar[00m$ git push origin master
+Counting objects: 18, done.
+Delta compression using up to 4 threads.
+Compressing objects:   6% (1/16)   Compressing objects:  12% (2/16)   Compressing objects:  18% (3/16)   Compressing objects:  25% (4/16)   Compressing objects:  31% (5/16)   Compressing objects:  37% (6/16)   Compressing objects:  43% (7/16)   Compressing objects:  50% (8/16)   Compressing objects:  56% (9/16)   Compressing objects:  62% (10/16)   Compressing objects:  68% (11/16)   Compressing objects:  75% (12/16)   Compressing objects:  81% (13/16)   Compressing objects:  87% (14/16)   Compressing objects:  93% (15/16)   Compressing objects: 100% (16/16)   Compressing objects: 100% (16/16), done.
+Writing objects:   5% (1/18)   Writing objects:  11% (2/18)   Writing objects:  16% (3/18)   Writing objects:  22% (4/18)   Writing objects:  27% (5/18)   Writing objects:  33% (6/18)   Writing objects:  38% (7/18)   Writing objects:  44% (8/18)   Writing objects:  50% (9/18)   Writing objects:  55% (10/18)   Writing objects:  61% (11/18)   Writing objects:  66% (12/18)   Writing objects:  72% (13/18)   Writing objects:  77% (14/18)   Writing objects:  83% (15/18)   Writing objects:  88% (16/18)   Writing objects:  94% (17/18)   Writing objects: 100% (18/18)   Writing objects: 100% (18/18), 21.45 KiB | 1.34 MiB/s, done.
+Total 18 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas:  14% (1/7)   [Kremote: Resolving deltas:  28% (2/7)   [Kremote: Resolving deltas:  42% (3/7)   [Kremote: Resolving deltas:  57% (4/7)   [Kremote: Resolving deltas:  71% (5/7)   [Kremote: Resolving deltas:  85% (6/7)   [Kremote: Resolving deltas: 100% (7/7)   [Kremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[K
+To github.com:williamorim/iag-meteorologia-pol-ar.git
+   293c639..b845931  master -> master
+]0;/home/william/Documents/IAG - Meteorologia da Poluição do ar]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da Poluuição do ar[00m$ [K[A]0;william@DeepThought: ~/Documents/IAG - Meteorologia da Poluição do ar[01;32mwilliam@DeepThought[00m:[01;34m~/Documents/IAG - Meteorologia da  Poluição do ar[00m$ git add .
